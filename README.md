@@ -10,13 +10,11 @@ The chatbot acts not only as a course navigation tool but also as a **form guida
 
 The system was created for **Zoho Cliqtrix ’26**, focusing on a smooth user experience where:
 
-### ✔ The chatbot guides the user
+✔ The chatbot guides the user
+✔ The form is embedded into the website
+✔ The bot suggests what the user should fill in the form
 
-### ✔ The form is embedded into the website
-
-### ✔ The bot suggests what the user should fill in the form
-
-The goal is to create a virtual assistant that connects course exploration + form submission into one seamless flow.
+The goal is to create a **virtual assistant** that connects **course exploration + form submission** into one seamless flow.
 
 ---
 
@@ -24,7 +22,7 @@ The goal is to create a virtual assistant that connects course exploration + for
 
 ### 🔹 1. Codeless Chatbot Flow
 
-Designed entirely using the Zoho SalesIQ codeless drag-and-drop builder — no Deluge or API integrations.
+Designed entirely using the Zoho SalesIQ **codeless drag-and-drop builder** — no Deluge or API integrations.
 
 ---
 
@@ -50,24 +48,24 @@ Instead of asking the user to fill the form blindly, the bot:
 
 * Explains what the form contains
 * Suggests what information will be required
-* Guides the user step-by-step (Example: “Keep your email and mobile number ready”)
-* Then opens the **Zoho Form** embedded inside the website
+* Guides the user step-by-step (e.g., “Keep your email and mobile number ready”)
+* Opens the Zoho Form embedded inside the website
 
-This improves clarity and prevents wrong or incomplete submissions.
+This improves clarity and **reduces wrong or incomplete submissions**.
 
 ---
 
 ### 🔹 4. Zoho Form Embedded Into the Website
 
-A Zoho Form is integrated into the website to collect:
+The Zoho Form collects:
 
 * Name
 * Email
 * Phone Number
 * Course Preference
 
-The chatbot redirects the user to the form section on the site with a quick message like:
-“Your details will help us process your request. Please fill the form below.”
+The chatbot redirects the user to the form section on the site with a message like:
+**“Your details will help us process your request. Please fill the form below.”**
 
 ---
 
@@ -78,20 +76,20 @@ The bot and form are merged into a single page using:
 * HTML
 * CSS
 * JavaScript
-* SalesIQ Website Embed Script
+* Zoho SalesIQ Website Embed Script
 
-Users can chat and fill the form without leaving the page.
+Users can **chat and fill the form without leaving the page**.
 
 ---
 
 ## 🛠 Technologies Used
 
-* **Zoho SalesIQ – Codeless Bot Builder**
-* **Zoho Forms**
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **SalesIQ Chat Widget Integration**
+* Zoho SalesIQ – Codeless Bot Builder
+* Zoho Forms
+* HTML
+* CSS
+* JavaScript
+* SalesIQ Chat Widget Integration
 
 ---
 
@@ -100,13 +98,15 @@ Users can chat and fill the form without leaving the page.
 1. User opens the website.
 2. The SalesIQ chatbot greets the user.
 3. User explores courses through button-based options.
-4. When the user clicks **Apply**,
+4. When the user clicks **Apply**:
 
-   * The bot explains what to fill in the form
+   * The bot explains what to fill
    * The bot guides the user to the embedded Zoho Form
-5. User submits the form and their data is recorded.
+5. User submits the form and the data is recorded.
 
-This creates a smooth, structured process from **chat → guidance → form → submission**.
+This creates a smooth, structured process:
+
+### **chat → guidance → form → submission**
 
 ---
 
@@ -118,6 +118,13 @@ The project serves as a **virtual course counselor** that:
 * Assists them before filling the form
 * Reduces mistakes during submission
 * Simplifies the admission enquiry process
+
+---
+
+## 🌐 Live Demo
+
+You can explore the working demo of the chatbot and form here:
+👉 **[Live Demo Link](https://courseadvisor.zohosites.com/)**
 
 ---
 
@@ -133,4 +140,4 @@ This project was developed for **Zoho Cliqtrix ’26** by:
 ## 📜 License
 
 This project is free to use for educational and learning purposes.
-!
+
